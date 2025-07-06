@@ -7124,6 +7124,23 @@ a {
   object-fit: contain;
   border-radius: 0 !important;
 }
+.cid-uQbyPLQsfk {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  background-color: #a8a9a6;
+}
+.cid-uQbyPLQsfk .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-uQbyPLQsfk .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
 .cid-uKOiMsf0Eu {
   padding-top: 6rem;
   padding-bottom: 6rem;
